@@ -2,6 +2,6 @@
 layout: default
 ---
 
-## Home Page
+## Home
 
 Home page content goes here.
