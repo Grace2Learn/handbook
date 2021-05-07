@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-About content goes here.
-
-- A list item
-- Another list item
-
-
 # Biggest heading
 
 Lucas ipsum dolor sit amet wicket moff grievous ackbar c-3po mon darth secura solo hutt. Mace mara antilles calamari c-3po c-3p0 amidala hutt cade. Darth k-3po organa kamino gamorrean windu solo. Naboo mon boba organa solo mara darth sidious coruscant. Dagobah amidala calrissian jinn c-3p0 vader utapau bespin. Solo qui-gon yoda twi'lek. Antilles k-3po windu sidious jawa windu skywalker mandalorians. Skywalker obi-wan jar wedge darth. Calrissian c-3po tusken raider ben. Solo mandalorians ahsoka darth jango gonk darth palpatine.
@@ -21,9 +15,6 @@ Tusken raider lobot cade lars moff skywalker darth obi-wan lars. Skywalker c-3po
 Organa binks darth amidala sebulba obi-wan leia. Jade solo luke antilles tusken raider mon vader sidious sidious. Fisto mandalore skywalker yoda boba fisto. Dagobah lando mon hutt hutt lars bespin dagobah. Moff calrissian chewbacca hutt c-3p0. Moff antilles hutt kenobi. Mara jango lando darth. Skywalker antilles solo organa jade amidala fett jar. Dagobah solo windu luke coruscant skywalker. Darth antilles mara ewok hutt ben organa mara. Yavin owen moff moff darth chewbacca antilles. Chewbacca organa lobot qui-gonn owen yoda.
 
 Padmé amidala moff darth greedo moff zabrak. Skywalker darth antilles mon. Leia obi-wan skywalker ackbar. Watto wampa darth darth fett sebulba c-3p0. Palpatine solo dooku fett mandalorians. Mandalore yoda darth jabba owen boba r2-d2. K-3po mustafar obi-wan organa skywalker. Zabrak moff dagobah kamino sebulba dooku kit. Jinn darth hutt wedge. Organa ben gonk wedge fett yoda darth mustafar. Amidala boba han binks wedge binks. Yoda anakin hoth organa ahsoka r2-d2 han yoda. Jango organa jade skywalker ben yavin lando grievous c-3p0.
-
-
-
 
 ## Big Heading
 
