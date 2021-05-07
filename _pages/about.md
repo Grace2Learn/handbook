@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+That table of contents ^ is auto-generated from the headings
 # Biggest heading
 
 Lucas ipsum dolor sit amet wicket moff grievous ackbar c-3po mon darth secura solo hutt. Mace mara antilles calamari c-3po c-3p0 amidala hutt cade. Darth k-3po organa kamino gamorrean windu solo. Naboo mon boba organa solo mara darth sidious coruscant. Dagobah amidala calrissian jinn c-3p0 vader utapau bespin. Solo qui-gon yoda twi'lek. Antilles k-3po windu sidious jawa windu skywalker mandalorians. Skywalker obi-wan jar wedge darth. Calrissian c-3po tusken raider ben. Solo mandalorians ahsoka darth jango gonk darth palpatine.
