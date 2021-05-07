@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-{% include toc.html html=content %}
-
 About content goes here.
 
 - A list item
