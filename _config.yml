@@ -21,9 +21,7 @@
 title: Grace2Learn Handbook
 email: info@grace2learn.co.za
 description: >- # this means to ignore newlines until "baseurl:"
-  This site is a playground for exploring the process of growing Grace2Learn's handbook as a statically generated site.
-  Hosting on GitHub pages is free, and the PR review process gives everyone the confidence to contribute without the
-  pressure of getting it right the first time.
+  Let's explore the viability of growing Grace2Learn's handbook as a statically generated site.
 baseurl: "/handbook" # the subpath of your site, e.g. /blog
 url: "https://grace2learn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
