@@ -1,3 +1,3 @@
-# Example Website with GitHub Pages and Jekyll
+# Handbook created with GitHub Pages and Jekyll
 
-View the website here https://dewetblomerus.com/pages-jekyll-example/
+View the handbook here https://grace2learn.github.io/handbook/
