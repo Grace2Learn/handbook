@@ -2,7 +2,7 @@
 layout: default
 ---
 
-The code that generates this website [lives here](https://github.com/Grace2Learn/handbook)
+The code that generates this handbook [lives here](https://github.com/Grace2Learn/handbook)
 
 ### Introduction
 
