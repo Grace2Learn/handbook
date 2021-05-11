@@ -3,6 +3,7 @@ layout: default
 ---
 
 The code that generates this handbook [lives here](https://github.com/Grace2Learn/handbook)
+
 The Google Doc with the current handbook [can be found here](https://docs.google.com/document/d/1Ol06wceWGY4s1TFLVvaYQxRxysTpNz4Zzvd3lPA_YPU)
 
 ### Introduction
